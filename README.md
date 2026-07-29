@@ -2,9 +2,9 @@
 Geopolitical supply chain risk-mitigation architecture for global maritime corridors and Giga Berlin operations.
 
 ## CONFIDENTIAL POLICY ARCHITECTURE // NOT FOR PUBLIC DISSEMINATION 
-## Pathways to Peace: A Treatse in Dialogue on Middle East Strategy. 
-## The Regional Perimeter Stabiliza on Framework (RPSF) 
-## Pathways to Peace: A Treatise in Dialogue, Understanding Legacy Attudes 
+## Pathways to Peace: A Treatise in Dialogue on Middle East Strategy. 
+## The Regional Perimeter Stabilisation Framework (RPSF) 
+## Pathways to Peace: A Treatise in Dialogue, Understanding Legacy Attitudes 
 ## Executive Briefing Memorandum 
 ## Proposed Middle East Charter (MEC)  
 
