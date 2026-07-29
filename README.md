@@ -886,6 +886,10 @@ The initiation of this framework relies on total regional synchronization. Shoul
 
 The principles embodied within this Charter are intended to be self-governing and mutually agreed by participating members, reflecting the shared interests and aspirations of the region.
 
+## Intellectual Property & Licensing Notice© 2026 FPP. 
+
+## This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyze, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name.
+
 
 
 
