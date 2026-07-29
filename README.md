@@ -52,7 +52,7 @@ To make the framework politically and economically viable within the United Stat
 ### Links & Documentation Tracking
 
 * **Executive Summary: ** `README.md` (This Page)
-* **Comprehensive Stress-Test Workbook: ** [Click here to view the full Analytical Stress-Test and Dialogue Tracker] (. /workbook.md)
+* **Comprehensive Stress-Test Workbook: ** [Click here to view the full Analytical Stress-Test and Dialogue Tracker](https://github.io)
 
 ### Intellectual Property & Licensing Notice
 
