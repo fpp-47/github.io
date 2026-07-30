@@ -52,7 +52,10 @@ To make the framework politically and economically viable within the United Stat
 ### Links & Documentation Tracking
 
 * **Executive Summary: ** `README2.md` (This Page)
+* **Proposed Draft Middle East Charter (MEC)
+* **Executive Briefing Memorandum (EBM)
 * **Comprehensive Stress-Test Workbook: [Link text](README2.md)
+
 ### Intellectual Property & Licensing Notice
 
 ## © 2026 FPP. This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyse, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-No Derivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name.
