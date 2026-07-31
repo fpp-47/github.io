@@ -22,8 +22,8 @@ The Regional Perimeter Stabilization Framework (RPSF) replaces reactive, top-dow
 
 ### I. The U.S. Security Transfer & Over-The-Horizon Posture
 
-* **Command Transfer: ** The United States transfers local security command directly to an expanded Gulf Cooperation Council (GCC) by affiliating remaining states through their Regional Perimeter Stabilization Framework (RPSF). 
-* **Over-the-Horizon Framework: ** The U.S. transitions frontline forces to a non-military, tech-forward posture. By retaining non-military technical architecture, intelligence-sharing networks, and high-tech maritime monitoring systems, the U.S. maintains long-range deterrence capability while minimizing its active footprint and financial exposure.
+* **Command Transfer: **  The United States transfers local security command directly to an expanded Gulf Cooperation Council (GCC) by affiliating remaining states within the Regional Perimeter Stabilisation Framework (RPSF), creating a structured pathway toward progressive alignment.
+* **Over-the-Horizon Framework (the official declaration): ** The U.S. transitions frontline forces to a non-military, tech-forward posture. By retaining non-military technical architecture, intelligence-sharing networks, and high-tech maritime monitoring systems, the U.S. maintains long-range deterrence capability while minimizing its active footprint and financial exposure.
 * **Universal MNNA Status: ** The framework anchors regional stability by expanding Major Non-NATO Ally (MNNA) status across the perimeter via Presidential Determination under Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. § 2321k), removing the zero-sum panic that drives regional arms races.
 
 ### II. The Mandela Pivot (Radical Inclusivity)
