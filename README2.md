@@ -787,7 +787,7 @@ The common-denominator text is submitted for 100% absolute unanimity among the p
 
 ## •  Days 61–90 (Macro Realignment & Operational Execution): 
 
-Final administrative execution of the framework. Formally executes regional GCC expansion/affiliation, deploys the universal Major Non-NATO Ally (MNNA) status expansion, issues the official U.S. "Over-the-Horizon" transition declaration, and toggles the Verification Facilitation and Resolution System (VFRS) into active peer-to-peer telemetry mode. 
+Final administrative execution of the framework. Formally executes regional GCC expansion , by affiliating remaining states within the Regional Perimeter Stabilisation Framework (RPSF), creating a structured pathway toward progressive alignment. deploys the universal Major Non-NATO Ally (MNNA) status across the perimeter via Presidential Determination under Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. § 2321k), issues the official U.S. "Over-the-Horizon" transition declaration, and toggles the Verification Facilitation and Resolution System (VFRS) into active peer-to-peer telemetry mode. 
 
 ## 3. COGNITIVE REBALANCING: LEVERS OF COMPLIANCE & REGIONAL SELF-GOVERNANCE
 
