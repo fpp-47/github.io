@@ -79,7 +79,7 @@ Without a grand bargain addressing sanctions relief for Iran, regional border se
 
 ## The Mandela pivot to bring all actors into the fold. 
 
-## Expand membership of the GCC across the region utilising Verification Facilitation and Resolution System, towards progressive alignment. 
+## Expand membership of the GCC across the region utilising Regional Perimeter Stabilisation Framework (RPSF), towards progressive alignment. 
 
 ## Policed by the PSG, we arrive at a democratic governance. 
 
@@ -102,9 +102,9 @@ Your inclusion of a "Mandela Pivot"—bringing all actors, including Iran, into 
 The Strategic Shift: Historically, attempting to isolate Iran or eradicate its proxy networks through military means has only caused them to entrench deeper into weak states.
 The Benefit: By offering Iran a legitimate, institutionalized seat at the table, you dismantle its primary strategic incentive for using asymmetric proxies—which is survival against isolation. It shifts the regional paradigm from ideological warfare to structural diplomacy.
 
-## 3. Broadening GCC Membership via the VFRS
+## 3. Broadening GCC Membership via the RPSF
 
-Expanding the GCC’s geographic membership across the wider region utilizing a Verification Facilitation and Resolution System (VFRS) provides the institutional teeth missing from previous peace initiatives.
+Expanding the GCC’s geographic membership across the wider region utilizing the Regional Perimeter Stabilisation Framework (RPSF), provides the institutional teeth missing from previous peace initiatives.
 The Strategic Shift: Rather than relying on vague diplomatic promises, the VFRS acts as a rigorous, objective monitoring mechanism.
 The Benefit: It creates a transparent framework to verify compliance with border security, non-proliferation, and proxy disarmament. This provides both Israel and Iran with verifiable proof of the other side's compliance, drastically lowering the risk of a pre-emptive strike born out of paranoia.
 
