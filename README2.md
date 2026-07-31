@@ -497,7 +497,7 @@ Instead: create concentric circles.
 •	Later entrants (including Iran) join under graduated conditions with verifiable milestones.
 This removes the ability of any single actor to veto progress while still preserving the long-term goal of full perimeter coverage.
 
-2. Front-load functional, technical cooperation before the political CharterBegin with the parts that already have overlapping interests and lower ideological temperature: 
+2. Front-load functional, technical cooperation before the political Charter, begin with the parts that already have overlapping interests and lower ideological temperature: 
 •	Maritime and energy-corridor monitoring (Hormuz, Red Sea) using existing sensor and intelligence grids — essentially a limited, operational VFRS pilot. 
 •	Notification regimes for certain missile or drone activities. 
 •	Joint economic projects (water, electricity interconnectors, logistics corridors) that create path dependence.
@@ -662,7 +662,7 @@ The claim that the Iranian threat is purely reactive—and will automatically su
 
 ## That may well be the case. However once the pragmatic elements are made to appreciate the massive benefits of peace, lifting of sanctions, unfreezing assets, normalisation, exponential economic growth, guaranteed security, no further bombing from the US and Israel's cessation of aggression expansionism and withdrawal to her 1967 borders, including the West Bank, then that threat would have no alternative but to desist.
 
-The repeated claim does not become stronger by restatement. A sufficiently large and credible package—sanctions relief, unfrozen assets, normalisation, rapid economic growth, an end to U.S. kinetic pressure, and full Israeli withdrawal to the 1967 lines including the West Bank—could shift the calculations of pragmatic elements inside Iran. Economic desperation is real, and parts of Iranian society already prioritise recovery over external ideology. It does not follow that the threat then “has no alternative but to exist” (i.e., disappear).Regime survival, ideological legitimacy, and the institutional interests of the IRGC and the main proxies are not identical to the preferences of the most pragmatic voices. Past periods of sanctions relief produced tactical adjustments, not irreversible abandonment of the proxy networks or the nuclear hedge. Proxies themselves retain local power bases and identities tied to continued confrontation. Mutual distrust creates sequencing problems: each side fears that the other will pocket concessions and then defect. Residual security hedges (nuclear latency, reconstitution capacity) remain rational even after economic benefits arrive. For the incentive logic to work at scale it still requires:
+The repeated claim does not become stronger by restatement. A sufficiently large and credible package—sanctions relief, unfrozen assets, normalisation, rapid economic growth, an end to U.S. kinetic pressure, and full Israeli withdrawal to the 1967 lines including the West Bank—could shift the calculations of pragmatic elements inside Iran. Economic desperation is real, and parts of Iranian society already prioritise recovery over external ideology. It does not follow that the threat then “has no alternative but to exist” (i.e., disappear). Regime survival, ideological legitimacy, and the institutional interests of the IRGC and the main proxies are not identical to the preferences of the most pragmatic voices. Past periods of sanctions relief produced tactical adjustments, not irreversible abandonment of the proxy networks or the nuclear hedge. Proxies themselves retain local power bases and identities tied to continued confrontation. Mutual distrust creates sequencing problems: each side fears that the other will pocket concessions and then defect. Residual security hedges (nuclear latency, reconstitution capacity) remain rational even after economic benefits arrive. For the incentive logic to work at scale it still requires:
 •	verifiable, enforceable constraints on proxies and nuclear pathways,
 •	security arrangements that Israel finds more credible than pure promises,
 •	benefits that are front-loaded yet reversible if defection occurs.
@@ -902,7 +902,7 @@ The principles embodied within this Charter are intended to be self-governing an
 
 ## Intellectual Property & Licensing Notice© 2026 FPP. 
 
-## This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyze, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name.
+## This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyse, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name.
 
 
 
