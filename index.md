@@ -125,8 +125,8 @@ To make the framework politically and economically viable within the United Stat
 ### Links & Documentation Tracking
 
 * **Executive Summary: ** `index.md` (This Page)
-* **Proposed Draft Middle East Charter (MEC)
-* **Executive Briefing Memorandum Plenary Time Line (EBMPT)
+* **Proposed Draft Middle East Charter (MEC) **
+* **Executive Briefing Memorandum Plenary Time Line (EBMPT) **
 * **Comprehensive Stress-Test Workbook: [Link text](README2.md)
 
 ### Intellectual Property & Licensing Notice
