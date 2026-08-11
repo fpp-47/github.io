@@ -46,7 +46,7 @@ Engineered continuously over a two-year evolutionary process directly in respons
 
 ## 1.4. Systemic Convergence: Why Previous Assets Failed vs. The RPSF Integration
 
-To understand the operational deployment of this architecture, evaluators must analyse why these immense historical assets and powers have failed to secure stability over previous decades. Legacy diplomacy deployed these elements as isolated, reactive, or unilateral actions. The Regional Perimeter Stabilization Framework (RPSF) synthesizes them into a singular, fault-tolerant, mutually reinforcing system.
+To understand the operational deployment of this architecture, evaluators must analyse why these immense historical assets and powers have failed to secure stability over previous decades. Legacy diplomacy deployed these elements as isolated, reactive, or unilateral actions. The Regional Perimeter Stabilization Framework (RPSF) synthesizes them into a singular, fault-tolerant, mutually reinforcing system. ## The following section provides the baseline comparative mapping for these 11 constituent assets:"
 
 ### The 11 Core Pillars of Regional Convergence
 
@@ -106,7 +106,7 @@ To understand the operational deployment of this architecture, evaluators must a
     
 * *Historical Failure: * Legacy frameworks systematically excluded non-state actors or hostile regional states, forcing isolated entities to rely on asymmetric attrition to survive.
   
-  * *RPSF Integration: * Offers universal inclusion into a respected legal charter, neutralising the primary strategic incentives for deniable, underground warfare.
+  * *RPSF Integration: * Offers Universal Inclusion into a respected legal charter, neutralising the primary strategic incentives for deniable, underground warfare.
 
 11. **The Suez Precedent (1956):** 
    
@@ -131,5 +131,5 @@ To make the framework politically and economically viable within the United Stat
 
 ### Intellectual Property & Licensing Notice
 
-## © 2026 FPP. This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyse, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-No Derivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name.
+## © 2026 FPP. This architectural framework is published openly for strategic evaluation. The author grants global corporate and state entities explicit permission to review, analyse, and operationally implement the structural concepts detailed herein under a Creative Commons Attribution-No Derivatives 4.0 International License (CC BY-ND 4.0). Under these terms, original attribution to the author must be maintained, and the text itself may not be modified or redistributed under another name. Use code with caution. 
 
