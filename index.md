@@ -46,7 +46,7 @@ Engineered continuously over a two-year evolutionary process directly in respons
 
 ## 1.4. Systemic Convergence: Why Previous Assets Failed vs. The RPSF Integration
 
-To understand the operational deployment of this architecture, evaluators must analyse why these immense historical assets and powers have failed to secure stability over previous decades. Legacy diplomacy deployed these elements as isolated, reactive, or unilateral actions. The Regional Perimeter Stabilization Framework (RPSF) synthesizes them into a singular, fault-tolerant, mutually reinforcing system. ## The following section provides the baseline comparative mapping for these 11 constituent assets:"
+To understand the operational deployment of this architecture, evaluators must analyse why these immense historical assets and powers have failed to secure stability over previous decades. Legacy diplomacy deployed these elements as isolated, reactive, or unilateral actions. The Regional Perimeter Stabilization Framework (RPSF) synthesizes them into a singular, fault-tolerant, mutually reinforcing system. The following section provides the baseline comparative mapping for these 11 constituent assets:"
 
 ### The 11 Core Pillars of Regional Convergence
 
