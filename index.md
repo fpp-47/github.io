@@ -105,8 +105,8 @@ To understand the operational deployment of this architecture, evaluators must a
 10. **The Mandela Pivot (Radical Inclusivity):** 
     
 * *Historical Failure: * Legacy frameworks systematically excluded non-state actors or hostile regional states, forcing isolated entities to rely on asymmetric attrition to survive.
-  
-  * *RPSF Integration: * Offers Universal Inclusion into a respected legal charter, neutralising the primary strategic incentives for deniable, underground warfare.
+
+* *RPSF Integration: * Offers Universal Inclusion into a respected legal charter, neutralising the primary strategic incentives for deniable, underground warfare.
 
 11. **The Suez Precedent (1956):** 
    
