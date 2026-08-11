@@ -89,7 +89,7 @@ To understand the operational deployment of this architecture, evaluators must a
 
 8. **Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. § 2321k):** 
    
-* *Historical Failure: * Awarded unilaterally and exclusively by the United States to select client states, accidentally fuelling regional arms races and security anxieties.
+* *Historical Failure: * MNNA status awarded unilaterally and exclusively by the United States to select client states, accidentally fuelling regional arms races and security anxieties.
  
   * *RPSF Integration: * Expanded universally via Presidential Determination across the entire perimeter, removing the existential panic that drives proxy warfare.
 
